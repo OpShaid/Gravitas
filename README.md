@@ -38,7 +38,7 @@ Gravitas is a vector field-driven physics engine that simulates physical force f
 
 
 
-[A Physics Engine Without Collision Detection - YouTube](https://youtube.com/shorts/ubLgdll2VZE?feature=share)
+[A Physics Engine Without Collision Detection - YouTube]()
 
 ## Installation and Running
 
