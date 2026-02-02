@@ -1,0 +1,31 @@
+{
+    "commands": {
+        "reset_view": "reset_view",
+        "toggle_grid": "toggle_grid",
+        "clear_grid": "clear_grid",
+        "switch_direction": "switch_vector_field_direction",
+        "add_marker": "add_marker",
+        "clear_markers": "clear_markers",
+        "set_device": "set_compute_device",
+        "set_gravity": "set_gravity",
+        "set_speed_factor": "set_speed_factor"
+    },
+    "descriptions": {
+        "reset_view": "resetgraphtostate",
+        "toggle_grid": "toggle grid show",
+        "clear_grid": "clear gridin",
+        "switch_direction": "togglevector fielddirection",
+        "add_marker": "inpositionaddmarker (param: x y mag)",
+        "clear_markers": "clearallmarker",
+        "set_device": "setcomputedevice (param: cpu|gpu)",
+        "set_gravity": "setgravityvelocity (param: value)",
+        "set_speed_factor": "setvelocity (param: value)"
+    },
+    "no_param_commands": [
+        "reset_view",
+        "toggle_grid",
+        "clear_grid",
+        "switch_direction",
+        "clear_markers"
+    ]
+}

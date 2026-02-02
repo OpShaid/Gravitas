@@ -1,0 +1,33 @@
+{
+    "grid_width": 640,
+    "grid_height": 480,
+    "cell_size": 1.0,
+    "vector_color": [
+        0.2,
+        0.6,
+        1.0
+    ],
+    "vector_scale": 1.0,
+    "vector_self_weight": 0.0,
+    "vector_neighbor_weight": 0.25,
+    "cam_x": 0.0,
+    "cam_y": 0.0,
+    "cam_zoom": 1.0,
+    "show_grid": true,
+    "grid_color": [
+        0.3,
+        0.3,
+        0.3
+    ],
+    "background_color": [
+        0.1,
+        0.1,
+        0.1
+    ],
+    "antialiasing": true,
+    "line_width": 1.0,
+    "compute_device": "gpu",
+    "compute_iterations": 1,
+    "render_vector_lines": false,
+    "target_fps": 60
+}
